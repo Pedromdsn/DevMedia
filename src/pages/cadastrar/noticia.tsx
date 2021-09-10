@@ -1,10 +1,10 @@
-import prisma from "../../libs/Prisma"
+import {prisma} from "../../libs/Prisma"
 import MainFooter from "../../components/Footer"
 import MainHeader from "../../components/Header"
 import RegistrarCategoriaComponente from "../../components/cadastrar/noticias"
 
 import { GetServerSideProps } from "next"
-import { Categorias } from "../../../prisma/generated/client"
+import { Categorias } from "@prisma/client"
 
 interface CategoriasType {
 	categorias: Categorias[]

@@ -3,7 +3,7 @@ import Link from "next/link"
 
 import { Formik, Form, Field } from "formik"
 import { toast, ToastContainer } from "react-toastify"
-import { Categorias } from "../../../prisma/generated/client"
+import { Categorias } from "@prisma/client"
 
 interface initialValuesType {
 	title: string

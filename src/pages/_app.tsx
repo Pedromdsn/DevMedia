@@ -1,5 +1,7 @@
 import Head from "next/head"
 
+import "../libs/Prisma"
+
 import "tailwindcss/tailwind.css"
 import "react-toastify/dist/ReactToastify.css"
 

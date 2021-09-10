@@ -1,4 +1,4 @@
-import { Noticias } from "../../prisma/generated/client"
+import { Noticias } from "@prisma/client"
 
 interface NoticiasProps {
 	noticias: Noticias[]
