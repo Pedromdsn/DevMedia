@@ -3,7 +3,7 @@
 ## A portfolio site, made using the latest technologies.
 
 In the construction of the site, the [React.js](https://reactjs.org/) library was used with the [Next.js](https://nextjs.org/) framework and [Prisma](https://prisma.io), just with Typescript.
-In the styling of the site was used [Tailwindcss](https://tailwindcss.com/) css with a little [sass](https://sass-lang.com/).
+In the styling of the site was used [Tailwindcss](https://tailwindcss.com/).
 
 ## Quality:
 
